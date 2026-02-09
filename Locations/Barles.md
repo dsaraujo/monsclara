@@ -1,0 +1,5 @@
+The area appears for the first time in texts in 1193 as Barlis.[15] A castle existed in 1206.[16] In 1300, a small Jewish community was established at Barles.[17] A hospital welcoming the sick and travelers was established at Barles in 1351.[16]
+
+In the Middle Ages some taxes were paid collectively by the community. The distribution per capita was their responsibility and the authorities did not intervene in this distribution. Some taxes were imposed on the Barles community together with Feissal. In the 13th and 14th centuries Barles depended on the viguerie of Digne.[10]
+
+The death of Queen Joanna I of Naples created a crisis of succession for the County of Provence. The towns of the Union of Aix (1382-1387) supported Charles, Duke of Durazzo, against Louis I, Duke of Anjou. The Barles community supported Charles until 1386 then changed sides to join the Angevins due to the negotiations of Marie of Blois, Duchess of Anjou, widow of Louis I, and regent for their son Louis II of Naples.[18] At the end of the war, Marie of Blois attached Barles to the bailiwick of Seyne.

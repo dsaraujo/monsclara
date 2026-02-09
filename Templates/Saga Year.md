@@ -1,0 +1,25 @@
+**Primavera**
+
+- Silver Hair from babies
+- Water Sounds collection 
+- Requests to Sera (Redcap)
+
+**Verão**
+
+- Fallen Stars (Check for [Eclipses of Southern France](Eclipses%20of%20Southern%20France.md))
+- Folio Delivery: [Bonisagus Folios](Bonisagus%20Folios.md)
+- Magic Birds in Fairy Regio (Per+Hunt to see how much Vis up to 5)
+- Dungeon Nightmare in Briançonnet
+- [Nascente do Verdon](Nascente%20do%20Verdon.md) exploration
+- Mistral wind in the Nascent
+
+**Outono**
+
+- Dead animals under the bridge in Castellane
+- Return of Sera (Redcap)
+
+**Inverno**
+
+- Stalactites inside the mountain
+- The Ice Crown of the statue of Hermes in Saint Andres
+- Aging Roll & _Aegis of the Heart_

@@ -1,0 +1,1 @@
+Church with small community. Burned after the fire of the discordia.

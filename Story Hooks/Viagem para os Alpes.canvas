@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"3fdfd6108ad27813","type":"text","text":"Viagem até o local pelos Alpes\n\n- Travessia da ponte de cordas\n- Nevasca\n- Avalanche\n\nTodos tem +3 Soak\n\nAbel --> +16\nBiel --> +21\nCervantes --> +13\nRitter --> pene +22 \n","x":-1200,"y":-1040,"width":360,"height":385},
+		{"id":"06e8213ba0acfa76","type":"text","text":"Guardião da mansão\n\nhttps://assets.forge-vtt.com/612d76c9aa81072b0cc642d5/worlds/arsmagica/maps/DecrepitEstate_Exterior_Grid_26x29_70ppi_WM.jpg","x":-1200,"y":-420,"width":250,"height":220},
+		{"id":"bb7215e3a0787a68","type":"text","text":"Idéias para dentro da mansão:\n* Armadilhas mundanas\n* animais warped\n* espíritos de covenfolk/servos\n* Sala de Jantar disgusting\n* Prisão (similar ao lab)\n\nParede secreta para porão\n\nFantasma Javier\nCasamento com Mad Francielle\n\nEscada enorme para o segundo andar\n\nhttps://assets.forge-vtt.com/612d76c9aa81072b0cc642d5/worlds/arsmagica/maps/DecrepitEstate_FirstFloor_Grid_26x29_70ppi_WM.jpg\n\nhttps://assets.forge-vtt.com/612d76c9aa81072b0cc642d5/worlds/arsmagica/maps/DecrepitEstate_FirstFloor_Grid_26x29_70ppi_WM.jpg","x":-760,"y":-900,"width":480,"height":480},
+		{"id":"fb41075432c8de72","type":"text","text":"Segundo Andar:\n\nQuarto de Nicolau\n\tEntrada para o sótão\n\nQuarto de empregados/servos\n\nBiblioteca\n\tContém documento de posse de Mons Clara do antigo Barão de Castellane\n\nhttps://assets.forge-vtt.com/612d76c9aa81072b0cc642d5/worlds/arsmagica/maps/DecrepitEstate_SecondFloor_Grid_26x29_70ppi_WM.jpg","x":-180,"y":-860,"width":460,"height":410},
+		{"id":"287971ac79f128e2","type":"text","text":"Sótão\n\n??\n\nhttps://assets.forge-vtt.com/612d76c9aa81072b0cc642d5/worlds/arsmagica/maps/DecrepitEstate_Attic_Grid_26x29_70ppi_WM.jpg","x":-60,"y":-320,"width":490,"height":250},
+		{"id":"42490b80ab5485a7","type":"text","text":"Porão\n\nWard ativa contra  os quatro realms (+28) e um Perdo Corpus que causa um Medium Wound (+28).\n\nAura Infernal (+2)\n\nLaboratório similar ao de Benoit, mas maior. Abandonado. \n\nTubos de vidro com vários corpos em vários estágios de desenvolvimento\n\nVer [Nicolau ex Jerbiton](Nicolau%20ex%20Jerbiton.md)\n\nhttps://assets.forge-vtt.com/612d76c9aa81072b0cc642d5/worlds/arsmagica/maps/DecrepitEstate_Basement_Grid_16x24_70ppi_WM.jpg","x":-760,"y":-240,"width":640,"height":420},
+		{"id":"3ea43210e26dd6a3","type":"text","text":"Aura Mágica +3","x":-1200,"y":-560,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"45b47a772ac62cee","fromNode":"3fdfd6108ad27813","fromSide":"bottom","toNode":"3ea43210e26dd6a3","toSide":"top"},
+		{"id":"89adc7d46a356eaa","fromNode":"3ea43210e26dd6a3","fromSide":"bottom","toNode":"06e8213ba0acfa76","toSide":"top"},
+		{"id":"adc0a80e7b67d761","fromNode":"06e8213ba0acfa76","fromSide":"right","toNode":"bb7215e3a0787a68","toSide":"left"},
+		{"id":"eae38da830965088","fromNode":"bb7215e3a0787a68","fromSide":"right","toNode":"fb41075432c8de72","toSide":"left"},
+		{"id":"be1e73dbf6b6fcd1","fromNode":"fb41075432c8de72","fromSide":"bottom","toNode":"287971ac79f128e2","toSide":"top"},
+		{"id":"56e93c94699c7b88","fromNode":"bb7215e3a0787a68","fromSide":"bottom","toNode":"42490b80ab5485a7","toSide":"top"}
+	]
+}
