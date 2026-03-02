@@ -1,0 +1,1 @@
+Twins cannot be inside Mons Clara due to the curse of the [[Medusa]]. 

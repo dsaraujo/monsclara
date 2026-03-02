@@ -1,0 +1,3 @@
+![Patrizio](https://assets.forge-vtt.com/612d76c9aa81072b0cc642d5/worlds/arsmagica/actors/Patrizio.jpg)
+
+Glassblower e Perfumista

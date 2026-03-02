@@ -1,0 +1,3 @@
+The Drac: The Drac could flood the region, destroy crops, or attack ships traveling on the Rhone. If the flooding threatened Viscount Raimon's lands, the magi of Mons Clara might be asked to intervene. Additionally, the sourcebook mentions a network of underwater regions beneath the Rhone Valley that the Drac is rumored to use for travel. The magi of Mons Clara might need to explore this network for a specific goal, such as recovering a lost magical item or rescuing someone who ventured into the Drac’s domain.
+
+Caused the floods in 1224

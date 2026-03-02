@@ -1,0 +1,11 @@
+### The Manor of Withering Joy
+
+**The Core of the Hook:** The manor and the family within are bound by an ancient fae covenant. Generations ago, the family de Valeray struck a bargain with a powerful fae entity of the nearby woods for prosperity. In return, they promised a "tithe." But the Fae's appetites are fickle. The tithe, once a share of the harvest, has become a tithe of emotion—specifically, their joy and ambition. The family is now wealthy and respected, but they are hollow shells, incapable of true happiness or drive, living lives of quiet, colorless routine. The manor itself reflects this: immaculate, orderly, but utterly without warmth or life. It is a gilded cage.
+
+- **Themis's Role:** Themis's relative lives in this oppressive environment. Perhaps Themis grew up there and is one of the few to have escaped, the lingering chill of the place driving them to seek the strange vitality of the magi at Mons Clara. Or perhaps their visit is a desperate, unspoken plea for help, a final flicker of ambition from a family that has almost forgotten the feeling.
+    
+- **Unfolding the Story:**
+    
+    - **Investigation:** When the magi visit, they will find the place unsettling. The servants are efficient but silent, the family polite but distant. A magus with Ignem magic might feel a literal coldness, while one with Intellego could perceive the emotional vacuum. Spells to read emotions would reveal a disturbing placidity.
+    - **The Fae Regio:** The source of the trouble lies in a fae regio connected to the manor, perhaps through an old well, a gnarled tree in the garden, or a dusty wine cellar. Within this regio, the fae lord [[Silas]] hoards the stolen joy like a miser hoarding gold. As described in the lore of the Merinita in _Houses of Hermes: Mystery Cults_, such bargains are perilous and their terms can twist over time.
+    - **Conflict and Choice:** The players must decide how to act. Do they attempt to break the pact, risking the fae's wrath and the family's likely financial ruin? Can they renegotiate the terms of the tithe? Perhaps the fae can be tricked, or maybe it desires something else the magi can provide—a story, a magical gift, or a service. This could become a complex diplomatic mission into the heart of a fae domain.

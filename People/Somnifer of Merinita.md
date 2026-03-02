@@ -1,0 +1,3 @@
+ Age: 113 (Apparent age 30) Personality Traits:  Sleepy +5,  Thoughtful +2,  Attentive –2 A master of magic pertaining to dreams, Somnifer kept the rest of the covenant appraised of the outside world during their captivity thanks to his ability to cast his mind forth in spiritual form and enter the dreams of those he encounters. He managed to find his apprentice through his dreams, and entice him to Lapis Crudus to receive training through the enchanted mirror. Somnifer has difficulty distinguishing dreams from reality, thanks to his Warping, and it is often difficult to determine whether he is awake, or just sleepwalking.
+
+Locked in Lapis crudus, in the Rhine, Somnifer is the leader of the [[Volshebnii Mechtateli]].
