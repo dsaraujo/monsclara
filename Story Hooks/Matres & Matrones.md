@@ -17,19 +17,20 @@ The recipients of the final level of initiation are the Matrons (Matrones), dedi
 * Matrona Rebecca ex Miscellanea and Sorgina (Dama's Chief of Staff) (lore 6)
 * Mother Azalais ex Mercere (Redcap leader) (lore 5)
 * Mother Marcella ex Bonisagus (lore 4)
-* Mother Mariola ex Jerbiton (2nd oldest Jerbiton, leader of Tolosa Paragne ) (lore 6)
-* Sister Beatrice ex Guernicus (Tibaut old apprentice) (lore 3)
+* Mother Mariola ex Jerbiton (2nd oldest Jerbiton, leader of Tolosa Paragne ) (lore 6) - Currently in Twilight
+* Mother Beatrice ex Guernicus (Tibaut old apprentice) (lore 3)
 * Sister Drusilla ex Miscellanea (lore 2)
 * Sister Marie ex Merinita (Dama's old apprentice) (lore 2?)
+* Sister Antoinette ex Jerbiton, 41 (33), from Bellaquin . (lore 0)
+* Sister Giacoma ex Bonisagus, 43 (35), from Stella Durus. (lore 0)
 
 New members
-* Guest Antoinette ex Jerbiton, 41 (33), from Bellaquin . (lore 0)
-* Guest Giacoma ex Bonisagus, 43 (35), from Stella Durus. (lore 0)
+
 
 ---
 ### Thematic Heart: The Gilded Cage of Power
 
-This story should revolve around the seductive nature of a gift freely given, but with a hidden cost. Dama, in her Twilight-induced state, genuinely believes she is uplifting women, fulfilling her oath to protect them1. She offers Drusilla a path to shed the social shackle of The Gift, reframing it as a blessing. However, her familiar, the serpent Maju, is the true architect. His goal is not to help Drusilla, but to forge her into a more effective tool for his grand design: to create a schism within the Dominion by elevating a twisted, feminine faith 2222.
+This story should revolve around the seductive nature of a gift freely given, but with a hidden cost. Dama, in her Twilight-induced state, genuinely believes she is uplifting women, fulfilling her oath to protect them1. She offers Drusilla a path to shed the social shackle of The Gift, reframing it as a blessing. However, her familiar, the serpent Maju, is the true architect. His goal is not to help Drusilla, but to forge her into a more effective tool for his grand design: to create a schism within the Dominion by elevating a twisted, feminine faith.
 
 Every element of the initiation must appear benign, even beautiful and sacred, while serving Maju's purpose of gathering influence, understanding weaknesses, and binding the initiate to his will through Dama.
 

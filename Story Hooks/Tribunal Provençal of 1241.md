@@ -36,9 +36,7 @@ Logo na primeira noite, antes das sessões oficiais, **Protendus** convoca uma r
 Ele revela que Aedes Mercurii sofreu tentativas de invasão mágica – espiões invisíveis de _Tres_ ou de agentes do Norte. Ele apresenta **Ravena ex Tremere** não como uma estranha, mas como uma "Consultora de Segurança" enviada por Montverte (Normandia) para garantir que o Tribunal não seja comprometido.
 
 - _Protendus:_ "Ela conhece as táticas do Norte e tem o talento para ver o que está oculto. Ela servirá como lictor especial durante este Tribunal."
-    
 - _Valeria ex Tremere (Rival):_ Estará presente, olhando com desdém. Ela tentará minar Ravena, sugerindo que "Montverte está tentando espionar Provença", forçando Ravena a provar sua lealdade a Mons Clara/Provença.
-    
 
 **O Clímax da Introdução (Ideia 1 - Champion):**
 
@@ -55,11 +53,8 @@ Durante o tribunal, surgirá uma disputa legal (ver "Pauta 3"). Mons Clara será
 Castra Solis traz evidências (possivelmente forjadas ou exageradas) de que _Tres_ está colaborando com hereges cátaros violentos que atacaram caravanas de suprimentos da Ordem.
 
 - **O Evento:** No meio da acusação, as tochas do salão principal ficam azuis. Uma voz projeta-se no salão (magia de _Tres_): _"Se a Ordem se ajoelha para o Rei Francês, a Ordem queimará com ele. Nós somos a verdadeira Provença."_
-    
 - **Votação:** Declarar todos os membros de _Tres_ como Renunciados e inimigos da Ordem (Wizard's War aberta e perpétua).
-    
 - **Impacto em Mons Clara:** _Tres_ está operando perto do Verdon. A guerra vai cair no quintal de Mons Clara.
-    
 
 ### 2. A "Proteção" da Coroa (Foreshadowing Histórico)
 
@@ -83,6 +78,16 @@ Membros de Coenobium (House Criamon/Bonisagus) alegam que a expansão de Mons Cl
 - **Resolução:** Certamen.
     
 - **Oponente:** Um Bonisagus de Coenobium, especialista em Vim e Ignem.
+- Renatus
+	- Good Arts: Intellego, Rego, Vim, Ignem, Terram, Corpus (16)
+	- Bad Arts: Creo, Perdo, Herbam, Auram, Animal (3)
+	- Other Arts: 8
+	- Initiative: Stress + 4
+	- Attack: -1 + Tech or Form + stress
+	- Defense: +2 + Tech or Form + stress
+	- Weakening: 5 + Attack Advantage
+	- Resistance Total: 2 + 3 (5)
+	- Fatigue: Normal, Winded, Weary, Tired, Dazed, Unconscious
     
 - **Ravena entra em cena:** Com seu foco em Certamen e especialização em Auram (para anular o Ignem), ela destrói o oponente metodicamente, ganhando o respeito (e o medo) dos presentes.
     
@@ -168,11 +173,8 @@ O culto de Dama acredita na supremacia das linhagens femininas e na proteção a
 Durante um recesso, um convite discreto é entregue a **Penelope**, **Drusilla** e, surpreendentemente, **Ravena**. É um convite para o pavilhão privado de Dama.
 
 - **A Cena:** Dama está sentada, servindo chá que cheira a ozônio e flores mortas. Ao redor dela estão **Marcella** (Stella Durus, Bonisagus) e **Giacoma** (Stella Durus, Bonisagus) — suas tenentes no Culto.
-    
 - **O Conflito:**
-    
     - **Para Ravena:** Dama acaricia a mão de Ravena (que tem medo de água, mas o chá é líquido... tensão). _"Tão rígida... Casa Tremere faz soldados de suas filhas. Eles cortaram suas asas, passarinho? Nós podemos devolvê-las."_ (Maju está oferecendo uma iniciação no culto para "curar" seus defeitos, mas o preço é lealdade a Dama, não a Tremere).
-        
     - **Para Drusilla:** As Matronas veem Drusilla (Rusticani) com suspeita. Elas acham que sua magia é "suja", mas reconhecem seu poder. Elas tentarão _comprar_ o voto de Mons Clara contra _Tres_, prometendo segredos sobre como vincular o _vis_ de Verdon permanentemente ao covenant.
 
 Followup da Carta que pede que Drusilla investigue as Witch Folks:
@@ -423,17 +425,6 @@ _Chegada em Arles e na Mercere House._
 - **O Gancho:**
     
     - **Drusilla (Rusticani):** Com sua sensibilidade a espíritos e o passado necromântico de Mons Clara (Tibaut), ela vê um espírito romano preso a uma coluna. Ele não fala latim, mas _Magic Theory_ antiga. Ele oferece um segredo sobre o local do Tribunal (uma passagem secreta ou sala oculta) em troca de ser libertado (exige um ritual rápido de _Rego Mentem_ ou _Perdo Vim_).
-        
-
-**A Chegada na Mercere House:**
-
-- **Descrição:** Não é apenas uma casa, é um entreposto fortificado disfarçado de estalagem de luxo. Há um _Mercere Portal_ aqui (conforme `Distances.csv`).
-    
-- **A Recepção:** O Redcap que atende Mons Clara (talvez **Sera** ou **Apollo**, se já estiverem lá, ou um NPC local) corre até eles antes que entrem.
-    
-    - _"Spatha, esconda o autômato. Ruberus ex Verditius está no saguão principal procurando motivos para denunciar 'tecnologia mundana perigosa'."_
-        
-    - _"Penelope, a delegação de Tolosa Paratge reservou a melhor suíte. Tivemos que colocar Mons Clara no anexo do estábulo... a menos que você consiga convencer o estalajadeiro (com magia ou charme) de que houve um engano."_
         
 
 Isso cria uma narrativa de:

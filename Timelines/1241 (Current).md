@@ -12,12 +12,22 @@
 
 - Tribunal de 1241 em Aedes Mercurii
 	- [Tribunal Provençal of 1241](Tribunal%20Provençal%20of%201241.md)
+	- Votações:
+		- Mons Clara: Drusilla vota com os Quaesitores (contra grupo multi-tribunal)
+			- Penelope, Spatha, Luc votam com o Tytalus.
+		- Mons Clara votam contra Castra Solis e Facção Branca na quesrtão dos trovadores
+		- Taxa para itens mágicos:
+			- Spatha a favor
+			- Luc, Penelope e Drusila contra
+		- 
 - Fallen Stars
 - Folio Delivery: [Bonisagus Folios](Bonisagus%20Folios.md)
 - Magic Birds in Fairy Regio (Per+Hunt to see how much Vis up to 5)
 - Dungeon Nightmare in Briançonnet
 - [Nascente do Verdon](Nascente%20do%20Verdon.md) exploration
 - Mistral wind in the Nascent
+- Esclaramonda reecontra a familia
+	- Espírito do Sr Greg se manifesta como um sun flower no lavandal (1 herbam)
 
 **Outono**
 
