@@ -67,3 +67,38 @@ She and her sisters lived on a set of islands called the Gorgades which was near
 Eventually Medusa was slain by the demigod Perseus, who had made it to the Gorgons islands and snuck in while they were sleep using the winged sandals of Hermes and Hades helm of invisibility. Upon seeing that their younger sister was slain Stheno screamed in anguish and attempted to murder Perseus only for him to escape.
 
 What became of Stheno and Eurayle afterwards is unknown.
+
+---
+### **Stheno, a Górgona Imortal**
+
+**Magic Might:** 50 (Terram) **Características:** Int +3, Per +4, Pre +2, Com +2, Str +6, Sta +6, Dex +2, Qik -2 
+**Size:** +2 
+**Confidence Score:** 2 (7 pontos)
+
+**Virtues e Flaws:** * _Magic Creature_; _Immortal_; _Greater Immunity: Terram Weapons_ (armas de pedra/metal mundane não a ferem); _Giant Blood_; _Ways of the Underworld_; _Terrifying Appearance_ (Major Flaw); _Monstrous Appearance_.
+
+**Personality Traits:** Vingativa +6, Majestosa +3, Ctônica +4, Fome de Existência +3.
+
+**Combat:**
+- **Garras de Bronze:** Init -2, Atk +12, Def +8, Dam +10
+- **Bote das Serpentes (Cabelo):** Init +1, Atk +15, Def +10, Dam +6 (mais Veneno)
+- **Soak:** +18 (Stamina + Pele de Escamas de Bronze)
+- **Fatigue Levels:** OK, 0, -1, -3, -5, Inconsciente
+- **Wound Penalties:** -1 (1-7), -3 (8-14), -5 (15-21), Incapacitada (22-28), Morta (29+)
+
+**Abilities:** * _Brawl_ 7 (Serpentes), _Awareness_ 5 (Intrusos), _Penetration_ 10 (Gaze), _Area Lore: Tartarus/Mons Clara_ 8, _Latin_ 5, _Greek_ 5.
+
+**Powers:**
+
+1. **Olhar de Petrificação** (10 pontos, Init -5, Terram/Corpus): Stheno pode transformar permanentemente um humano ou animal em pedra. _R: Sight, D: Mom, T: Ind._ O alvo deve resistir à Might 50. Se falhar, é transformado em uma estátua de mármore impecável. (_Baseado em "Statue to Animal" invertido e ampliado_) . Efeito de 50, com 50-(5x10)+pen=10 pe
+2. **Eco do Grito de Pedra** (5 pontos, Init -2, Terram):
+    Um grito agudo que faz as fundações tremerem. Objetos de madeira ou metal tocados pelo som tornam-se frágeis como arenito por um dia.
+    _R: Voice, D: Sun, T: Group._.
+3. **Mestra do Labirinto** (0 pontos, Init +0, Terram):
+    Stheno pode moldar a rocha ao seu redor à vontade, abrindo ou fechando túneis.
+    _R: Touch, D: Mom, T: Part._ (Equivalente a _The Forgiving Earth_).
+4. **Veneno das Mil Víboras** (2 pontos, Init n/a, Aquam): O veneno de seus cabelos de serpente causa uma ferida Pesada (Heavy Wound) se penetrar a Magic Resistance. O alvo deve passar num teste de Stamina (Ease Factor 12) para não calcificar internamente.
+
+**Vis:** 10 pawns de Terram (em suas escamas) e 10 pawns de Corpus (em seu sangue imortal).
+
+**Aparência:** Uma mulher de proporções gigantescas, com pele coberta por escamas de bronze que brilham fracamente no escuro. Em vez de cabelo, centenas de víboras purpúreas se contorcem. Seus olhos são como ametistas líquidas, sem pupilas.
