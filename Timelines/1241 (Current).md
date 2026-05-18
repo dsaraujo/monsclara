@@ -43,7 +43,7 @@
 - Casualidades
 	- 3 quebraram pernas/braços, 1 quebrado ao meio
 	- 1 fazendeiro.
-- Aura de Mons Clara +3
+- Aura de Mons Clara +2 temporariamente
 	- 
 
 **Inverno**

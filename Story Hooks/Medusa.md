@@ -102,3 +102,57 @@ What became of Stheno and Eurayle afterwards is unknown.
 **Vis:** 10 pawns de Terram (em suas escamas) e 10 pawns de Corpus (em seu sangue imortal).
 
 **Aparência:** Uma mulher de proporções gigantescas, com pele coberta por escamas de bronze que brilham fracamente no escuro. Em vez de cabelo, centenas de víboras purpúreas se contorcem. Seus olhos são como ametistas líquidas, sem pupilas.
+
+---
+
+Marcella ex Bonisagus está em Barbegal pesquisando a destilação de vis e refinamento de Técnicas. Na mitologia, o sangue do lado direito de uma Górgona pode curar e ressuscitar.
+- **A Ideia:** Usar o laboratório de Barbegal e o conhecimento de Drusilla em **Terram** para criar um solvente alquímico universal.
+- **O Desafio:** Os magos precisam coletar "lágrimas" ou o suor do metal azulado do Portão do Tártaro (que vibra com o grito dos prisioneiros) e destilá-lo usando a água que flui para cima na caverna profunda de Mons Clara.
+- **O Toque Especial:** Como Drusilla possui o **Gentle Gift** (Iniciação dos Matres), ela é a única que pode administrar o remédio sem que a Natureza Mágica residual da poção aterrorize os aldeões semi-conscientes.
+
+Alternativamente:
+
+A Rainha Feérica Allande (Divona) é a deusa das fontes e odeia a "calcificação" e a estagnação da montanha.
+- **A Ideia:** Julius ex Merinita aprisionou Allande justamente porque o poder dela (mudança e fluxo) era o oposto direto do selo de Stheno (estase e prisão).
+- **O Desafio:** Luc, usando sua compreensão da natureza e o **Rugido de Barbary**, precisaria convencer Allande a perdoar Mons Clara. Mathilde, com suas habilidades de diplomacia e relações mundanas, poderia organizar um festival ou ritual público para que a vila "reconhecesse" Divona novamente.
+- **O Toque Especial:** Se Allande for liberada para inundar os canais subterrâneos da montanha, a água dela agiria como um solvente feérico, "lavando" a pedra dos corpos. O risco é que o excesso de "Mudança" feérica possa transformar os aldeões em algo que não é mais puramente humano.
+
+---
+
+## **Zoltán ex Tremere (O Transmutador de Coeris)**
+
+- **Casa:** Miscellanea (servindo os Tremere).
+- **Tribunal de Origem:** Transilvânia (Sediado em Coeris).
+- **Nascimento:** 1188 (63 anos / Aparente 45).
+- **Especialidade:** _Hedge Magic: Mythic Alchemy_ (Integrada à Teoria Hermética).
+### **Descrição e Personalidade**
+
+Zoltán é a personificação da disciplina Tremere. Ele não usa as vestes luxuosas dos Jerbiton ou o capuz sinistro dos Flambeau; ele usa um avental de couro reforçado com escamas de bronze sobre uma túnica cinza austera. Suas mãos são permanentemente manchadas de vitríolo e nitrato. Ao contrário de **Vladimir** (que trouxe o lobo Austerus em 1226), Zoltán não tem um familiar animal. Ele afirma que "a alma de um alquimista deve estar contida em seus frascos, não em bestas".
+
+Ele é pragmático, direto e vê o mundo como uma série de equações alquímicas esperando por equilíbrio. Ele foi enviado por **Poena** (Prima de House Tremere) para atuar como um "Intendente de Recursos" para **Ravena** e o grupo de Mons Clara, agora que a guerra com Tres começou de fato.
+
+### **Capacidades em Mythic Alchemy**
+
+Zoltán pratica uma forma de Alquimia Mítica que permite efeitos que a Magia Hermética padrão às vezes ignora:
+- **Destilação de Essências (Vis):** Ele consegue extrair _vis_ de substâncias incomuns, como o "suor" das paredes das cavernas de Mons Clara ou o sangue de criaturas petrificadas.
+- **Transmutação de Metais:** Ele pode reforçar as espadas de **Lisanda** e os escudos de **Spatha**, transmutando o ferro mundano em "Aço Adamantino" temporário (nível de dureza sobrenatural).
+- **Elixires de Estase:** Zoltán possui fórmulas para elixires que podem retardar a petrificação lenta que aflige bebês como **Raphael** (o gêmeo de mármore), embora ele não possa curá-los permanentemente sem a ajuda de **Drusilla** ou **Penelope**.
+
+### **Por que ele está na Provença em 1241?**
+
+1. **A Auditoria de Coeris:** Após a expulsão de **Benoit** e as suspeitas de Tibaut sobre a **Dama**, a Casa Tremere quer garantir que sua nova integrante, **Ravena**, não seja consumida pelo caos político local.
+2. **O Metal Estelar:** Ele ouviu boatos sobre **Ninip** e os meteoritos que caíram em 1235. Para um Alquimista Mítico, o material que compõe Ninip é o ingrediente supremo para a Pedra Filosofal ou uma Longevidade perfeita.
+3. **A Guerra de Tres:** Ele foi enviado para "alimentar a fornalha". Ele traz consigo _Casting Tablets_ para rituais de fortificação e pretende usar o silver vein de Mons Clara para criar uma linha de suprimentos alquímicos para as defesas do covenant.
+
+### **Hooks para os Jogadores**
+
+- **Para Spatha:** Zoltán quer estudar as propriedades do metal azulado do Portão do Tártaro. Ele propõe uma troca: o segredo de como fundir Star Metal sem perder suas propriedades celestiais em troca de acesso ao observatório de Barbegal.
+    
+- **Para Ravena:** Ele se apresenta como seu superior hierárquico técnico. Ele exige relatórios semanais sobre o uso de _vis_ no covenant, o que pode criar tensão com o conselho.
+    
+- **Para Drusilla:** Ele está fascinado pelas espadas que ela e Lisanda criaram (aquelas que quebram metal mundano). Ele acredita que pode tornar essas lâminas permanentes se banhá-las em um destilado de "Grito de Górgona".
+    
+
+**Sugestão de Cena de Introdução:** Zoltán chega a Mons Clara não por portal, mas em uma carroça blindada, reclamando que os Redcaps da Provença são "desorganizados". Ele é encontrado na forja com **Anil** e **Ardor**, discutindo como a chama do espírito de forja é "alquimicamente impura" e precisa de recalibração.
+
+O que você acha dessa adição? Ele pode ser um aliado valioso, mas o preço alquímico dele (frequentemente exigindo amostras de sangue ou acesso a segredos perigosos) sempre deixará os magi em alerta.

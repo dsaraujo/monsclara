@@ -13,7 +13,7 @@
 - Husband of Orable de Fabrègues, de Riez
 - Father of Boniface IV, seigneur de Castellane; Agnès de Castellane, dame de Tartonne; Laure de Castellane; Guillemette de Castellane and Sibylle de Castellane
 ## Baron Boniface IV (1215-1242)
-- Birth 1179 - Death 1252 (Age: 41 @ 1220)
+- Birth 1179 - Death 1252 (Age: 62 @ 1241)
 - Son of Boniface "le Roux", seigneur de Castellane and Orable de Fabrègues, de Riez
 - Husband of Agnès Spada
 - Father of Garsende de Castellane (1188); Béatrix de Castellane (1215, took by Satyrs / Hanellore); Boniface V, seigneur de Castellane (1219) and Aynarde de Castellane (1224)
@@ -21,9 +21,9 @@
 - Arrived recently from a pilgrimage, don't want to get involved in the Albigensian Crusade
 - Used to be a Diabolist, but renounced its powers(?)
 ## Baron Boniface V (1242-1247)
-- Birth 1219 - Death 1247 (Age: 1 @ 1220)
+- Birth 1219 - Death 1247 (Age: 22 @ 1241)
 ## Baron Boniface VI de Castellane (1247-1265)
-- Birth 1239 - Death 1277
+- Birth 1239 - Death 1277 (Age: 2 @ 1241)
 - In 1248, he and Barral of Baux led a rebellion against Charles of Anjou (Count of Provence and son of Louis VIII of France), who was gone on the Seventh Crusade. Charles suppressed the uprising after he returned in 1250.
 - Bonifaci's turbulent political career can be traced through his three surviving sirventes, lyric poetic works on political themes in the Occitan language, each written at different points in his conflict with Charles of Anjou.
 - The pact between Charles and several cities of Piedmont in 1260 provoked another violent poem in the style of Bertran de Born, Gerra e trebailh e brega.m plaz. Early in 1262, Bonifaci led another revolt in the city of Marseille against Charles' rule. This time Barral of Baux remained loyal to Charles, but his cousin Hugh of Baux joined Bonifaci. In response, Charles destroyed Castellane and forced Bonifaci into exile.
