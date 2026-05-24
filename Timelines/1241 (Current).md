@@ -43,7 +43,7 @@
 - Casualidades
 	- 3 quebraram pernas/braços, 1 quebrado ao meio
 	- 1 fazendeiro.
-- Aura de Mons Clara +2 temporariamente
+- Aura de Mons Clara +2 temporariamente, mas retorna a +5 com Stheno voltando pra montanha.
 	- 
 
 **Inverno**
