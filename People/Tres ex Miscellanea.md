@@ -3,15 +3,15 @@ Rusticani
 ![Tres ex Miscellanea](https://assets.forge-vtt.com/612d76c9aa81072b0cc642d5/worlds/arsmagica/actors/Tres.jpg)
 
 **Tres ex Miscellanea**
-Age: 65 (46)
+Age: 86 (52) @1241
 Personality Traits: Belicose +3, Protector of Mundane +2
 
 **Charlotte filia Tres ex Miscellanea, Apprentice**
-Age: 35 (34)
+Age: 56 (38) @1241
 Personality Traits: Jealous +2, Dedicated +2
 
 **Brutus filia Tres ex Miscellanea**
-Age: 45 (35)
+Age: 66 (39) @1241
 Personality Traits: Rough +3, Simple-minded +2
 
 In the Summer of 1220 he visited Mons Clara: He wants payment from destroyed itens. He is asking £30 and 10 pawns of vis. He is being a bully, but also sending a message to Cenobium.

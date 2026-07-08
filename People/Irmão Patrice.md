@@ -1,0 +1,1 @@
+Não foi petrificado por conta de sua fé verdadeiro, e fugiu de volta para o Monastério.

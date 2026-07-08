@@ -5,13 +5,13 @@
 * 1239 Jun 03
 * 1241 Oct 06
 * Summer 1241
-* Spring 1245
+* Spring 1245 (parcial) 
 * Winter 1248 (anular)
-* Spring 1255
-* Autumn 1290
+* Spring 1255 (parcial)
+* Autumn 1290 (parcial)
 * Winter 1310 (total)
 * Spring 1333 (anular)
-* Summer 1339
+* Summer 1339 (parcial)
 * Summer 1366 (total)
 * Summer 1391 (anular)
 
