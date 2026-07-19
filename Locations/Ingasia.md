@@ -41,29 +41,20 @@ Spatha is approached by a senior representative of Stouritus (perhaps the brilli
 ### Scene 1: The Feast of the Automated Vineyard
 
 - **The Setup:** Spatha attends a lavish banquet hosted by Primus Stouritus to welcome foreign guests and showcase Ingasia's superiority.
-    
 - **The Action:** During the feast, an incredible automaton designed to pour wine malfunctions due to a subtle curse planted by a Verdi saboteur. It draws a flaming bronze blade and threatens a high-ranking guest. Spatha must intervene quickly (using combat, magic, or quick-thinking craft theory) to neutralize the creation without destroying the precious _vis_ forged inside it.
-    
 - **The Reward/Consequence:** Handling this gracefully earns Spatha a significant _charis_ (favor) from the Primus himself, thrusting him right into the inner circle.
-    
 
 ### Scene 2: Trading in the Vulcan Marketplace
 
 - **The Setup:** Spatha needs to procure a rare arcane component (perhaps an item needed for his own talisman or laboratory). He is directed to the lower volcanic galleries where Ingasia magi and their specialized covenfolk trade.
-    
 - **The Action:** The merchant holding the item doesn't want _vis_—he has too much. He wants Spatha to resolve a legal deadlock. Another magus owes the merchant a _charis_ from seven years ago but is refusing to honor it, claiming a loophole in the Theban Peripheral Code. Spatha must negotiate, use social leverage, or uncover a hidden truth to settle the debt.
-    
 - **The Lesson:** This scene forces Spatha to actively engage with the complex, transactional nature of the Theban favor economy to get what he wants.
-    
 
 ### Scene 3: The Midnight Theft at the Ancient Forge
 
 - **The Setup:** The Verdi traditionalists approach Spatha with an ultimatum. They have discovered that Stouritus is preparing an unparalleled masterwork to unveil at the next grand Contest to definitively prove Ingasia's supremacy.
-    
 - **The Action:** Spatha is asked to slip into the deepest, high-aura volcanic vaults beneath Lemnos—the legendary site of Hephaestus's original anvil. He isn't there to steal the item, but to swap out the rare _attunement components_ or alter the hidden _Verditius casting tools_ being used to construct it.
-    
 - **The Climax:** Spatha must bypass intricate, clockwork magical traps and elemental guardians. Once inside, he faces a moral choice: execute the sabotage to ensure Verdi remains the _domus magna_, or preserve the pristine, historic craftwork and side with the ambitious Primus of Ingasia.
-    
 
 ## 5. Tying it All Together
 
@@ -72,3 +63,43 @@ By the end of the adventure, Spatha shouldn't just leave with a new magic item o
 To help Spatha or your players visualize the intense, multi-tiered architecture of this volcanic forge-covenant, you can use a structural diagram of its layout:
 
 How does Spatha typically handle political pressure? If he prefers straightforward action over diplomacy, we can tailor the saboteur options in Scene 3 to lean heavily into tactical Hermetic combat!
+
+---
+
+## 1. Navigating Ingasia’s Politics: The Battle for the Domus Magna
+
+Spatha has walked directly into a cold war for the soul of House Verditius. Primus Stouritus refuses to move to the traditional seat of Verdi in Sardinia, boldly aiming to officially shift the Domus Magna to Ingasia on Lemnos. Because Spatha is an outside magus from the Provençal Tribunal, his perspective is seen as highly valuable and malleable[cite: 5, 6].
+
+### The Factions at the Table
+
+- **The Pro-Ingasia Reformers (Primus Stouritus):** They argue that Lemnos is the true theological heart of the craft—where Hephaestus landed after being cast from Olympus. Stouritus is commercially driven, wanting to expand item sales to mundanes, and wants Spatha to champion this progressive, profitable vision back in Provence.
+    
+- **The Verdi Traditionalists (The Ghost of Sardinia):** Even though elder magi like Anaximander live on Lemnos, many fiercely protect the ancient law that the Primus must rule from Verdi. They view Stouritus's refusal to relocate as dangerous arrogance that threatens the metaphysical stability of the House's Inner Mysteries.
+    
+- **The Automaton Backlash:** The clockwork automaton that attacked Spatha with a knife was no random accident. It serves as a perfect political node:
+    
+    - _Option A:_ It was sabotaged by a traditionalist extremist trying to frame Stouritus's laboratory safety and discredit his lineage.
+        
+    - _Option B:_ It was a deliberate, controlled test orchestrated by Stouritus to gauge Spatha’s reflexes, magical defenses, and overall worthiness before revealing deeper secrets in the lab gallery.
+        
+
+## 2. The Fragment of the Hephaestus Portal
+
+To reward Spatha and give him concrete leverage to bring back to Mons Clara, Stouritus (or Anaximander as a counter-bribe) can gift him a fragmented artifact from the legendary **Hephaestus Portal**—a primordial bronze or volcanic stonework arch from the original Lemnian ruins.
+
+### Arcane Information & Secrets to Reveal:
+
+- **The Link to the Mons Clara Gorgon Gate:** When Spatha analyzes the fragment using Terram or Vim, he discovers it shares a shocking metallurgical signature with the deep, multi-layered ancient Greek bronze gate found beneath Mons Clara. The inscriptions on your covenant's gate (_"As firm as the anvil"_) perfectly mimic the primordial forge-craft rules used by Hephaestus's first twelve companions on Lemnos[cite: 5, 6].
+    
+- **Breakthrough & Mystery Insights:** This fragment is a potent catalyst. It can act as a direct source of **Insight** or provide a hefty script bonus for Spatha’s ongoing, frustrating attempts to master _Celestial Magic_ or _Items of Quality_[cite: 5, 6]. The stone or metal literally vibrates with the resonance of the planetary alignment of Mars[cite: 5, 6].
+    
+- **The Price of Divine Craft (Hubris):** Bringing a piece of a god's original forge into Mons Clara triggers the inherent Verditius curse. The fragment will grant a +2 bonus to local forge or laboratory aesthetics, but it steadily increases the _Hubris_ trait of any Verditius who works near it, causing them to view mundane tools with absolute contempt.
+    
+
+### Suggested Scene Flow for Tonight
+
+1. **The Lab Gallery Confrontation:** Stouritus addresses the automaton attack flippantly, turning it into a debate about the flaws of automation versus the perfection of the forge. He lays out his political offer to Spatha.
+    
+2. **The Bribe of Knowledge:** Spatha is given access to the restricted Lemnian vault to pick a token of appreciation, leading him to the portal fragment.
+    
+3. **The Cosmic Whisper:** While examining the fragment under the stars of Lemnos, Spatha's astrology tools or his talisman register a direct call back to the shaking foundations of Mons Clara[cite: 5, 6].

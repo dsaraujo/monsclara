@@ -38,7 +38,12 @@
 - Viagem de Spatha para Thebas
 		- Ingasia
 		- [[Viagem de Spatha em 1242]]
-- Enterro do Barão Bonifácio de Castellane
+			- Reforge Enchanted Items
+				- Verditius 
+			- Elder Runes
+			- Seleno ex Merinita Covenant Epidauros
+			- Anaximander of Verditius
+- Enterro do Barão Bonifácio de Castellane (ver [Lords of Castellane](Lords%20of%20Castellane.md))
 	- Mathilde
 
 **Outono**

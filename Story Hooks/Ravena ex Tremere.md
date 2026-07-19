@@ -110,3 +110,58 @@ _(A imagem de Geirlaug desaparece em um flash de luz, deixando a sala na penumbr
     - **Eduardus:** Voz aveludada, irônica, charmosa.
     - **Geirlaug:** Voz instável, variando de sussurros a gritos estridentes.
     - **Runild:** Voz firme, autoritária, calculista.
+
+---
+
+With Tibaut, Michaela, and Ophilio gone, a massive vacuum of memory has opened up in the Tribunal. For a Tremere like Ravena, who relies on meticulous records, legal precedents, and structural leverage, this is both a crisis and a golden opportunity to step up as the covenant’s chief archivist and investigator.
+
+Here is a curated list of external and internal contacts who can help Ravena piece together the stolen history of Mons Clara, recover its former glory, and deal with the mysterious leads left behind by Ahmad ibn Nasr.
+
+## External Hermetic Contacts (From the Tribunal Roster)
+
+Ravena needs allies who understand the delicate political fabric of the Provençal Tribunal and the specific missing links of the past.
+
+|**Name**|**House & Covenant**|**Key Insights & Political Value**|
+|---|---|---|
+|**Protendus**|Tremere (_Aedes Mercuri_)|**The House Elder:** At 132 years old, he is her direct House contact. He is reclusive and secretive, but he knew Ophilio well and strongly suspected that senior magi were being target-poisoned or manipulated by the Praeco Dama. He can provide Ravena with House backing if she helps him prove a conspiracy.|
+|**Artemis**|Tremere (_Bellaquin_)|**The Legal Eagle:** A 69-year-old Quaesitor who is highly disciplined and strong with Corpus magic. She was tasked with checking if Mons Clara complied with its non-interference boundaries regarding its local vis source. She is an excellent asset for Ravena to subtly verify what legal frameworks Mons Clara can exploit to recover its status.|
+|**Solis**|Guernicus (_Aedes Mercuri_)|**The Investigator:** A 55-year-old Quaesitor who originally held a mysterious, magically memory-erased scroll case meant for Tibaut. She is timid but fair. If Ravena wants to understand what Tibaut was actually hunting before his untimely death, Solis holds the key to his early case files.|
+|**Ahmad ibn Nasr**|Tytalus (_Fraxinetum Redux_)|**The Master of Secrets:** A Mediterranean raider who claimed to know the exact fate of the items and ancient documents plundered from Mons Clara during the historical crusader raids. He previously attempted to trade this information for custody of Liliana.|
+
+## Internal Covenant Sources (Who Holds the Keys at Mons Clara?)
+
+While the magi look outward, the answers to the mundane recovery of the covenant lie in the memories of the permanent staff and the remaining sodales.
+
+### 1. Johannes (The Senescal) & Ricardus (The Chamberlain)
+
+- **Mundane Memory and Ledger Books:** Johannes manages the overall operations, borders, and interaction with local barons. Ricardus, a former Mercere apprentice, keeps an incredibly strict grip on the covenant’s historical expenditure, treasury, and the exact records of what was lost during the raids.
+    
+- **Ravena's Angle:** Ravena can collaborate with Ricardus to systematically list every single text, laboratory tool, and charter right that was missing prior to her arrival. This gives her a literal "recovery manifest" to work from.
+    
+
+### 2. Padre Vitolino (The Master Scribe)
+
+- **The Translator of Fragments:** Brought in to translate and copy old texts, Vitolino is highly literate in Latin and familiar with classical documentation.
+    
+- **Ravena's Angle:** If Ahmad's stolen documents are recovered or scried upon, Vitolino is the one who can help Ravena safely transcribe and decode them without risking exposure to potentially lingering Hermetic or abnormal side-effects.
+    
+
+### 3. Penelope (House Merinita)
+
+- **The Dream Navigator:** Penelope mastered _Dream Magic_ and theurgic dream manipulation. She is the one who successfully navigated the dream realms of _Julius ex Merinita_ and discovered his deep, paranoid secrets regarding the bindings of the mountain.
+    
+- **Ravena's Angle:** Because physical documents are missing, Ravena can pitch a joint venture: Penelope pulls the _memories_ of the past out of the local regio or the dream-husk of old residents, while Ravena codifies them into solid, legally binding Hermetic records.
+    
+
+## Storyguide Hooks: Weaving Ahmad’s Stolen Documents
+
+The fact that Ahmad ibn Nasr holds documents stolen from Mons Clara is the perfect catalyst for Ravena's ambitions. Here are a few creative ways to introduce this into your upcoming sessions:
+
+- **The Tytalus Bargain:** Ahmad doesn't give anything away for free. He might contact Ravena directly, recognizing her Tremere efficiency, to offer a piece of the stolen archives in exchange for a political favor at the upcoming Tribunal meeting—such as voting to formally recognize his rogue covenant, _Fraxinetum Redux_.
+    
+- **The Scry Trail:** Since Spatha and Themis have previously used letters as Arcane Connections to scry on targets, Ravena could push the covenant to use their remaining resources to perform a targeted _Intellego_ operation on Ahmad's vault to visually read the stolen papers from a safe distance.
+    
+- **The Legacy of Nicolau:** Ahmad’s documents might contain the original unedited journals of **Nicolau ex Jerbiton**, detailing exactly why Mons Clara was founded in this specific mountain cluster and what pristine magical properties it holds.
+    
+
+Would you like to explore a specific scene where Ravena approaches Ricardus to map out the missing assets, or should we plan how Ahmad delivers his first cryptic clue regarding the stolen documents?
