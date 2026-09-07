@@ -20,6 +20,12 @@ defined by a dice roll of 2d10:
 
 Typically around 6 pawns can be gathered.
 
+Estabilizado.
+
+* Fantasmas 2 Me
+* Pássaros mágicos hibridos 2 Au
+* Mistral 2 Au
+
 ---
 
 ### **Tema da Sessão: O Aqueduto de Eolo**

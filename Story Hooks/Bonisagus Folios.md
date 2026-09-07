@@ -129,3 +129,25 @@ Order of Hermes Lore
 Tractatus: Cult of Mercury Lore or Hermes Lore Q14 The Roots of Hermes by Rebus ex Bonisagus
 
 Rebus discusses the ancient Cult of Mercury and its influence on Hermetic magic, including a discussion of contemporary Cults to the extent that they are known. Rebus approaches the topic as a historian, and he is not himself a member of any of the contemporary cults who succeed the ancient cult.
+
+---
+
+**The Folio of 1237 (@Mons Clara in 1243): Boundaries of Matter and Mind**
+
+- **Point Cost:** 38 (Combined Magic Theory of the five Colentes: 38)
+- **Copying:** A scribe accumulates $6 + \text{Profession: Scribe}$ points per season if copied carefully (granting +1 XP in Order of Hermes Lore per item read).
+
+| **Topic**         | **Stats / Level** | **Title**                                 | **Details & Editorial Notes**                                                                                                                                                                                                                                                                                                                                               |
+| ----------------- | ----------------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lab Text**      | MuTe(Aq) 25       | _The Fluid Bulwark_                       | R: Touch, D: Sun, T: Ind. Transmutes worked stone or rock into a dense, non-Newtonian slurry that resists blunt force (like metal would) but yields to slow pressure (Experimentation), like a liquid. **Side Effect:** Emits a faint crystalline chiming sound whenever subjected to impact. Invented by Viviana of Bonisagus. (Base 5, +1 Touch, +2 Sun, +1 Aquam)        |
+| **Lab Text**      | ReVi 30           | _Severing the Tethered Thread_            | R: Voice, D: Mom, T: Ind. Instantly suppresses an active Arcane Connection held by a target against another entity for Moon duration if the caster beats the caster’s original effect level + stress die (Base 15, +2 Voice, +1 complexity). Invented by Quaesitor Antonius during a dispute over lingering sympathetic links.                                              |
+| **Lab Text**      | CrIg(Au) 20       | _Lantern of the Stolen Gale_              | R: Touch, D: Ring, T: Circle. Creates a localized, self-contained fire inside an inscribed circle that draws in all smoke and turbulent air from the room, burning cleanly without needing firewood (Experimentation). **Side Effect:** Casts a distinct amber-violet glow that causes minor vertigo in mundane observers. (Base 4, +1 Touch, +2 Ring, +0 Circle, +1 Auram) |
+| **Spell Mastery** | Mastery Q8        | _Aegis of the Hearth_                     | _The Steady Ward_ by Philippus ex Bonisagus. Teaches **Adaptive Casting** (allows the ritual to blend seamlessly into borderline magical auras without penalty to casting totals).                                                                                                                                                                                          |
+| **Magic Theory**  | Tractatus Q10     | _Distillation of the Unseen Quintessence_ | Authored by Viviana of Bonisagus. Discusses the theoretical framework of isolating Vim traits from high-vis natural phenomena and the risks of lab warping during volatile extractions.                                                                                                                                                                                     |
+| **Terram**        | Tractatus Q9      | _Echoes in the Granite_                   | Authored by Paul of Jerbiton. An inquiry into the lingering resonance of mundane craftsmanship on stone, exploring how artisan intent alters Base Terram guidelines.                                                                                                                                                                                                        |
+
+**Composition & Editorial Summary**
+
+- **Magical Focus:** 3 Lab Texts ($5 + 6 + 4 = 15\text{ magnitudes}$)
+- **Theoretical Works:** 3 Tractatus ($8 + 10 + 9 = 27\text{ quality}$ points)
+- **Total Points:** $15 + 23 = 38$ (Exact match for the editorial board's capacity).

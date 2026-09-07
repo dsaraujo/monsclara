@@ -9,6 +9,7 @@
 - Fallen Stars (Check for [Eclipses of Southern France](Eclipses%20of%20Southern%20France.md))
 - Folio Delivery: [Bonisagus Folios](Bonisagus%20Folios.md)
 - Magic Birds in Fairy Regio (Per+Hunt to see how much Vis up to 5)
+	- 12:3, 15:4, 18+:5
 - Dungeon Nightmare in Briançonnet
 - [Nascente do Verdon](Nascente%20do%20Verdon.md) exploration
 - Mistral wind in the Nascent

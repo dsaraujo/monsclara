@@ -165,3 +165,25 @@ The fact that Ahmad ibn Nasr holds documents stolen from Mons Clara is the perfe
     
 
 Would you like to explore a specific scene where Ravena approaches Ricardus to map out the missing assets, or should we plan how Ahmad delivers his first cryptic clue regarding the stolen documents?
+
+---
+
+**À jovem Ravena da Casa Tremere,**
+
+As correntes não fazem barulho quando deslizam sobre o veludo, mas deixam marcas negras na pele que tenta esquecê-las.
+
+Sua presença no Tribunal ainda ecoa nas margens do meu pensamento. Tão ereta, tão rígida — uma lâmina moldada pelas mãos austeras de Coeris e pelo orgulho de seu sangue. Eles cortaram as asas da sua mente antes mesmo que você soubesse o quão alto o céu da Provença poderia ser, não foi? Eles lhe ensinaram a obedecer ao ritmo do ferro e da ordem, enquanto a verdadeira terra abaixo de nós chora sob o peso do ferro frio e das chamas dos falsos cruzados.
+
+Eu o sinto sob o barro de Mimizan. Um grande corpo de escamas e sabedoria antiga que se contorce e sussurra sob o lago. Maju se lembra de você. Ele diz que o seu olhar guarda uma fome que a Casa Tremere jamais saberá como alimentar. Há coisas que o sangue e a espada não alcançam. O som do riacho mudou, Ravena. As fontes estão com gosto de cinzas e ferro esquecido. Alande se agita na floresta; Oriande tece suas cordas invisíveis ao redor do meu pescoço; e os Quaesitores... ah, os velhos homens de pedra pensam que tudo pode ser julgado antes que o sol se ponha. Mas o véu está se desfazendo.
+
+Eles dizem que estou caindo no Twilight. Dizem que sou apenas uma imagem refletida na água escura. Não os escute. Há caminhos que passam por fora dos portões e das grandes torres. Se você procurar nos seus sonhos pelo cheiro dos lírios molhados e pelo sussurro da serpente que não tem pés, você encontrará a fresta na gaiola.
+
+O tempo do meu ritual se esgota. A carne mortala exige tributos que os velhos ritos já não conseguem pagar sem sangue novo. Se você deseja desatar as amarras que colocaram em seus pulsos, olhe para o sul quando as estrelas do dragão se alinharem. Não traga a sua ordem. Traga apenas a sua vontade de não ser quebrada.
+
+_Quem mantém a gaiola aberta também sabe como fechá-la._
+
+**D. ex Merinita**
+
+_Praeco de Provença_
+
+(No verso do pergaminho, há uma única marca fina feita com cinzas e gordura, lembrando a escama de uma cobra gigante, e um rastro quase imperceptível de perfume de lírios.)

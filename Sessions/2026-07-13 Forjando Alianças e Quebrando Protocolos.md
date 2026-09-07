@@ -1,5 +1,3 @@
-# Forjando Alianças e Quebrando Protocolos
-
 Date: 2026-07-13
 
 ## Summary
