@@ -17,54 +17,6 @@ Ele procura a raposa que foi ensinada por São Francisco. Ver SubRosa v20.
 
 ---
 
-### Step 1: The Trial of Knowing (Fulfilling Balbucco's Request)
-
-The journey has already begun. Balbucco's request for an enchanted item is the formal first step of the initiation—a trial of contemplation and craft.
-
-- **Narrative Purpose:** This is not a mere errand. Balbucco is forcing Luc to deeply meditate upon the nature of his own soul and his current form, the owl. To enchant an item with the five senses is to prove he has mastered the perception of a single being. Before he can unify two natures, he must demonstrate perfect understanding of one. The item—a totem carved from a sacred tree, a silver locket etched with an owl's face—will become a potent mystical link to his own spirit.
-    
-- **The Adventure:** As Luc is not a Verditius, this task requires collaboration. He must work closely with **Spatha**, bringing his deep, instinctual understanding of his heartbeast to the artisan's enchanted forge. This is a perfect opportunity for a season of joint effort, fostering bonds within the covenant as Luc tries to translate the feeling of an owl's sight or the texture of the wind on its feathers into Hermetic theory for Spatha to work into the enchantment.
-    
-
----
-
-### Step 2: The Journey of Blood (The North African Expedition)
-
-Elornis's offer is not a distraction from the path; it _is_ the path. Balbucco, knowing Luc must eventually embrace a second nature, would surely encourage this journey. Where better to learn the ways of the lion than in the sun-drenched lands of Africa?
-
-- **Narrative Purpose:** This journey serves two functions. First, it is a quest to gain the requisite knowledge. The Bjornaer traditions of North Africa, with their connections to lions, serpents, and crocodiles, are a vital, missing piece of Luc's education. Second, it is a personal trial. Traveling with his "tormenting parent" will test his emotional and mental fortitude as much as the desert tests his physical endurance. He may reconcile with Elornis, or he may finally define himself in opposition to her.
-    
-- **Mechanical Goal:** The adventures Luc undertakes in North Africa—seeking out a hidden Bjornaer sept in the Atlas Mountains, bargaining with a Djinn for an ancient story, tracking a legendary Barbary lion—will provide the necessary experience to raise his **House Bjornaer Lore to 5**.
-    
-
----
-
-### Step 3: The Summoning of the Mentor (Presenting the Totem)
-
-Luc returns to Mons Clara a changed man, with deeper knowledge and the completed owl totem in hand. Now, Balbucco will declare him ready for the most crucial stage: contacting the Great Beast who will serve as the final mystagogue.
-
-- **Narrative Purpose:** The enchanted owl totem is not merely proof of a completed task; it is the key. It will be used as the central focus in a great ritual, performed by Luc and overseen by Balbucco. The totem, imbued with Luc's essence and the five senses, will act as a psychic beacon, allowing them to call across the veil into the Magic Realm and summon a specific ancestor.
-    
-- **The Ritual:** Instead of a physical journey, this becomes a powerful magical one. Luc and Balbucco cast a potent ritual (perhaps requiring rare vis and aligned to Luc's astrological chart). The owl totem glows, and the spirit of the Great Beast—let us still call him **Gryphus the Sky-Watcher**—manifests before them, drawn by the call of his descendant. Gryphus will judge Luc, not only on the quality of the totem but on the knowledge and maturity he gained in his travels.
-    
-
----
-
-### Step 4: The Trials of Unification (Serving the Great Beast)
-
-With contact established, Gryphus takes over from Balbucco as the primary guide, setting the final trials. These tasks will no longer be about understanding a single nature, but about demonstrating the ability to unify two. Crucially, these trials can and should be tied directly to the existing troubles facing the covenant.
-
-- **Mechanical Goal:** Luc must complete adventures set by Gryphus to earn the required **10 Adventure experience points**.
-    
-- **Sample Trials:**
-    
-    1. **Trial of Wisdom (The Owl):** Gryphus commands: "In the Gorge of Verdon, a spring spirit weeps, her sorrow poisoning the waters. The magi of Cenobium see only a resource to be studied. Show them the folly of their approach. Soothe her grief not with power, but with understanding." This sends Luc directly to the Verdon Springs mystery, tasking him with solving it in a Bjornaer way.
-        
-    2. **Trial of Strength (The Lion):** Gryphus then directs him: "Under the bridge at Castellane, a fae artist gives birth to trolls of mindless rage. This is an imbalance of creation without control. You will master this creature. Do not destroy the art, but tame the anger that gives it life." This makes the troll sculptor mystery Luc's direct responsibility, testing his strength and his ability to dominate a chaotic force.
-        
-
----
-
 ### Step 5: The Ordeal and the Re-Forging (The Final Transformation)
 
 This final step remains the pinnacle of the Mystery. Having completed the trials and proven he understands the harmony of wisdom and strength, Luc is now ready to have his very spirit reforged by his ancestor.
@@ -82,53 +34,6 @@ Elornis Maruh (Wilderist): Characterized by romantic souls and strong passions, 
 
 Balbuccos Wilkis (Harmonista): Strengthens the House as a whole, enforcing the decisions of the Bjornaer Council and actively seeking out House lore.
 
-
----
-
-### **I. The Premise & Atmosphere**
-
-- **Theme:** _The Dual Nature of the Soul._ The conflict between Elornis (Wilderist: "Be the beast") and Luc (Harmonist: "Balance the two").
-    
-- **Setting:** The grueling flight across the Mediterranean, the rugged Atlas Mountains, and the mystical, heat-hazed banks of the Nile.
-    
-- **Key Objective:** Fulfill the three tasks set by Balbucus: Visit the African Bjornaer Sept, find a Jinn for an ancient story, and track the Barbary Lion1.
-    
-
----
-
-### **II. Scene 1: The Migration (The Physical Ordeal)**
-
-Elornis (Flamingo) and Luc (Owl) depart Mons Clara. This is not merely travel; it is an endurance test designed by Elornis to prove Luc's worthiness.
-
-- **The Challenge:** Owls are silent hunters, not migratory endurance flyers like Flamingos. Luc must push his physical limits.
-    
-- **The Conflict:** A winter storm over the Mediterranean. Elornis will refuse to land on "human ships," forcing Luc to rely on his **Stamina (+4)** or his magic.
-    
-- **Magical Application:** Luc might need to use **Muto Animal** or **Rego Corpus/Animal** to sustain his flight or reshape his wings for endurance rather than silence.
-    
-- **Elornis's Lesson:** "The wind does not care for your library books, _filius_. Only the wing matters here."
-    
-
-> **Storyguide Note:** Use this to highlight Luc's **Stamina +4**2. He is physically resilient, perhaps surprisingly so to Elornis.
-
----
-
-### **III. Scene 2: The Sept of the Atlas (The Social Test)**
-
-Before reaching the Nile, they stop at the Atlas Mountains (North Africa) to visit the reclusive Bjornaer sept mentioned by Balbucus3.
-
-- **The Encounter:** The Sept is primal. They do not live in covenants but in rocky dens. They speak a dialect of **Gothic** or ancient Berber.
-    
-- **The Interaction:** They view Luc's "Totem of Owl Bone" 4 with suspicion. Is it a tool, or a mockery of the Heartbeast?
-
-* Tawanda: Badger
-* Dramor: Desert Fox
-* Tyronius: Lagarto
-    
-- **The Trial:** To be granted passage or knowledge of the Barbary Lion, Luc must hunt without magic, using only his Heartbeast.
-    
-- **The Twist:** The prey is a magical creature, perhaps a **Basilisk** or a **Crowned Cobra**, requiring Luc to use his wits (Owl) rather than brute force.
-    
 
 ---
 
@@ -175,33 +80,105 @@ Para invocar a Grande Besta, você não deve tentar dominá-la, nem pedir licen�
 
 ---
 
-### **O Insight para o Ritual (Mecânica & Lore)**
+**Sidi Shamharoush (Abu al-Walid, _At-Tayyar_ — "O Voador")** encaixa-se perfeitamente na jornada de Luc: além de ser o lendário Qadi (Juiz) dos Reis Djinn do Alto Atlas marroquino, sua manifestação primordial como uma **coruja branca colossal** ressoa de forma profunda e imediata com o _Heartbeast_ de Luc[cite: 3, 5].
 
-Ao ouvir esta história, Luc ganha o componente **"História Antiga"** para o seu script de iniciação ou ritual da Grande Besta.
-- **O Segredo Revelado:** A chave para o ritual não é subjugar o espírito da Grande Besta (como Elornis sugeriria), mas sim criar uma ressonância empática, uma "união" onde as naturezas se fundem. Isso valida o caminho **Harmonista** de Luc.
-- **A Conexão:** O nome **Khab-Neter** ou o conceito de "absorver a fome" pode ser usado como um bônus em rolagens futuras para invocar ou interagir com espíritos animais ancestrais.
+  
+
+### 1. Localização e Atmosfera: A Fenda de Toubkal (Alto Atlas)
+
+- **O Santuário / Regio:** Nas ravinas áridas e glaciais abaixo do cume do Jbel Toubkal, onde o vento do deserto encontra o ar gelado dos picos[cite: 3, 5]. Há uma garganta estreita marcada por rochas brancas caiadas e panos verdes deixados por devotos locais.
+    
+      
+    
+- **A Transição do Regio (Aura Mágica/Faérica 5+):**
+    
+      
+    - Enquanto Luc voa em sua forma de coruja pelas correntes térmicas do Atlas, o som do vento cessa abruptamente.
+        
+          
+        
+    - Ele entra em um vale suspenso no tempo: um tribunal ao ar livre cercado por pilares de ardósia negra e penedos onde dezenas de sombras e olhos luminosos observam em silêncio absoluto — a corte silenciosa dos jinn menores.
+        
+          
+        
+
+### 2. A Manifestação de Shamharoush (_At-Tayyar_)
+
+- **A Aparição:** Do alto do penhasco mais alcantilado desce uma rajada de ar congelante carregada de cinza de cedro. A sombra cobre a ravina inteira antes que ele pouse: uma coruja de penugem alva como a neve perpétua do Toubkal, com garras de bronze oxidado e envergadura de mais de seis passos, cujos olhos não são de ave, mas globos de âmbar líquido que refletem constelações antigas anteriores a Salomão[cite: 3, 5, 10].
+    
+      
+    
+- **A Voz:** Ele não fala com cordas vocais, mas com o retinir do vento em penas rígidas, projetando palavras arcaicas que ecoam diretamente na mente animal e humana de Luc:
+    
+      
+    
+    > _"O caçador da terra dos francos vem com asas de coruja, mas cheira a fogo de laboratório e promessas de matilha[cite: 3, 5]. Quem te deu permissão para cortar o céu de Shamharoush?"_
+    > 
+    >   
     
 
----
+### 3. O Julgamento do Qadi (O Teste da Verdade e Perspectiva)
 
-### **V. Scene 4: The Shadow of the Barbary Lion**
+Shamharoush é, antes de tudo, um **Juiz Cósmico**. Ele não concede sabedoria por intimidação nem por ouro; ele exige julgamento, coerência e uma verdade sem disfarces.
 
-The final task is to track the legendary Barbary Lion.
-- **The Investigation:** Using **InAn** (Intellego Animal), Luc tracks the beast not by footprints, but by the _fear_ it leaves in other animals.
-- **The Climax:** Luc finds the Lion, not as a monster to be slain, but a majestic Magical Beast (Might 30+).
-- **The Choice:** Elornis urges Luc to dominate the beast or steal a trophy (a Wilderist approach). Luc, as a Harmonist, might seek to communicate or simply witness/understand it.
-    - If Luc chooses Harmony (Communication/Observation), he gains insights into his **Bjornaer Mysteries** but disappoints Elornis.
-    - If he chooses Domination, he pleases Elornis but risks his own ethical code.
+  
 
----
+- **O Desafio da Dúvida:** Shamharoush questiona a razão de Luc desejar a _Quimera_.
+    
+      
+    - "Tu és homem com pele de ave, ou ave que sonha ser feiticeiro? A Quimera não é um mero enxerto de garras em asas; é a recusa de aceitar os limites que a criação impôs à tua carne. Por que deverias receber mais de uma face diante do mundo?"
+        
+          
+        
+- **A Balança de Perspectiva (Desafio Bjornaer):**
+    
+      
+    - Shamharoush exige que Luc enfrente o peso de suas naturezas conflitantes sem recorrer à magia Hermética (ecoando os ensinamentos que Luc vivenciou com o leão e a serpente no septo do Atlas)[cite: 3, 6].
+        
+          
+        
+    - Luc deve usar seu _Heartbeast_ e sua _Folk Ken / Bjornaer Lore_ para argumentar ou demonstrar que a união de formas não é vaidade ou aberração, mas o resgate da harmonia ancestral pré-Hermética[cite: 2, 6].
+        
+          
+        
 
-### **VI. Suggested Mechanics & Rewards**
+### 4. A História Antiga Transmitida (O Requisito de Balbuco)
 
-- **Source of Vis:** The Nile is rich in **Aquam** and **Herbam** (Papyrus), but the desert offers **Ignem** and **Terram**. Luc should find a unique source of Vis (perhaps **Animal Vis** from the shed skin of a magical crocodile) to bring back to Balbucus.
-- **Experience:** This season should yield Adventure XP (focusing on Area Lore: Nile, Magic Lore, or Speak: Arabic/local dialect).
-- **Item:** Luc might find a **Hieroglyphic slate** or **Papyrus scroll** that grants a bonus to Magic Theory or serves as a casting tool for future rituals.
+Quando satisfeito com a conduta de Luc, Shamharoush bate as asas alvas, apagando a luz do dia para revelar a **Memória dos Primeiros Dias**:
 
----
-### **Next Step**
+  
 
-Would you like me to detail the stats for the **Jinn** or the **Barbary Lion**, or perhaps write a specific dialogue script for the philosophical argument between Luc and Elornis regarding the use of the Owl Totem?
+- **A Fábula dos Três Sopros:**
+    
+      
+    - O Rei Djinn relata como, antes dos homens construírem cidades de pedra e antes de Salomão gravar anéis de selamento, as fronteiras entre os seres eram fluidas como vapor e fogo sem fumaça.
+        
+          
+        
+    - Ele narra a história da **Grande Besta Al-Khimar**, uma criatura primordial nascida da união da tempestade com as rochas do deserto — que possuía o olho vigilante da coruja e a ferocidade implacável do predador terrestre, não como duas almas brigando, mas como uma única vontade indivisível.
+        
+          
+        
+    - "Os homens de cajado tentaram separar o bico da garra, chamando isso de ordem. Mas o sangue primordial lembra-se de quando voar e rasgar eram o mesmo movimento. Guarda esta lembrança, filhote de coruja: para unir duas feras, deves primeiro matar a soberba que diz qual delas és tu."
+        
+          
+        
+
+### 5. Recompensas e Ganchos Mecânicos
+
+- **Cumprimento do Pré-requisito de Balbuco:** Luc cumpre formalmente a exigência do mistagogo ("a história ancestral contada por um Djinn")[cite: 3, 6].
+    
+      
+    
+- **Tractatus / Insight de Mistério:**
+    
+      
+    - Shamharoush concede uma pena imaculada de sua asa direita (ou uma pedra de ardósia marcada com seu glifo de julgamento)[cite: 3, 5].
+        
+          
+        
+    - Isso serve como um **Tractatus de House Bjornaer Lore (Quality 11)** ou como um **Script Bonus (+3)** para a Iniciação do Mistério da Quimera (_Inner Heartbeast_)[cite: 2, 6].
+        
+          
+        
+- **Conexão com a Próxima Etapa:** O Djinn avisa que a história é apenas o mapa; para forjar o corpo quimérico, Luc ainda terá de enfrentar e assimilar a essência da segunda fera (o Leão da Barbária ou o Grifo que ele já começou a domesticar em Mons Clara)[cite: 3, 6] diante dos olhos de seus ancestrais no próximo _Ritual dos 12 Anos_[cite: 3, 6].
