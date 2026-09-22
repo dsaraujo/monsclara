@@ -2,6 +2,7 @@
 
 - Silver Hair from babies
 - Water Sounds collection 
+- [[Golden Acorns of Marseille]]
 - Requests to Sera (Redcap)
 
 **Verão**
@@ -11,7 +12,8 @@
 - Magic Birds in Fairy Regio (Per+Hunt to see how much Vis up to 5)
 	- 12:3, 15:4, 18+:5
 - Dungeon Nightmare in Briançonnet
-- [Nascente do Verdon](Nascente%20do%20Verdon.md) exploration
+- Mistral wind/Birds/Water in the Nascent
+	- [Nascente do Verdon](Nascente%20do%20Verdon.md) 
 - Mistral wind in the Nascent
 
 **Outono**

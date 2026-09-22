@@ -35,7 +35,7 @@ Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16�
 * Theology 3
 * Philosophiae 1 (history)
 
-**Teaching Source**: Teaching 4 + Base 3 + Communication 3 + Good Teacher 5. Single Student +6 (Total 21xp)
+**Teaching Source**: Teaching 6 + Base 3 + Communication 3 + Good Teacher 5. Single Student +6 (Total 23xp)
 
 
 

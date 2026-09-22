@@ -5,6 +5,7 @@ Morte de Ramon Berenguer V
 
 - Silver Hair from babies
 - Water Sounds collection 
+- [[Golden Acorns of Marseille]]
 - Requests to Sera (Redcap): Sera irá se mudar para Harco, e quer deixar seu filho León em seu lugar.
 	- Retorno para Seleno ex Merinita em Epidauros
 		- Interessados em assuntos: Julius, Gorgona (falam que é Stheno), mandam lasca do portão do Tártaro (presente), falam da relação com as fadas da Provance. 
@@ -18,23 +19,35 @@ Morte de Ramon Berenguer V
 - Viagem de Penelope para Durenmar
 	- Consulta à Biblioteca
 - Mestre Luca e Nathan
-- The historical death of Count Ramon Berenguer V. He leaves Provence not to his royal daughters, but to his youngest, Beatrice. This triggers a crisis.
-    - **Development:** Before Charles d'Anjou's arrival in 1246, Provence is in a state of uncertainty. Ambitious local lords may try to seize land. The king of France and the king of England may send agents to press their wives' claims. The magi of Mons Clara could find themselves caught in the middle of these power plays, forced to back a side or defend their own lands from opportunistic mundane armies. This sets the stage perfectly for the dramatic changes of the 1250s.
+- Teobaldina, a Grifo
+	- Filho: Baguette (5)
+		- Consome um ponto de vis pelos próximos 10 anos.
 
 **Verão**
 
 - Fallen Stars (Check for [Eclipses of Southern France](Eclipses%20of%20Southern%20France.md))
 	- Partial [[Sun Eclipse of 1245]]
 	- Meteoros vão cair na lavanda.
+	- A escama da "Maju" aparece na bota da Ravena
+	- Steno chora (esquerda: Perdo, ácido negro; direita: Creo, cria lírio de pedra)
+		- Forças dos Titãs, feminino da Lua
+		- 
 - Magic Birds in Fairy Regio (Per+Hunt to see how much Vis up to 5)
 - Dungeon Nightmare in Briançonnet
 - [Nascente do Verdon](Nascente%20do%20Verdon.md) exploration
 - Mistral wind in the Nascent
+-  The historical death of Count Ramon Berenguer V. He leaves Provence not to his royal daughters, but to his youngest, Beatrice. This triggers a crisis.
+    - **Development:** Before Charles d'Anjou's arrival in 1246, Provence is in a state of uncertainty. Ambitious local lords may try to seize land. The king of France and the king of England may send agents to press their wives' claims. The magi of Mons Clara could find themselves caught in the middle of these power plays, forced to back a side or defend their own lands from opportunistic mundane armies. This sets the stage perfectly for the dramatic changes of the 1250s.
+    - Romain Jaques --> NPC de Briançonnet
+    - Barão de Sisteron (Digne, Barles)
+    - Bonifacio --> Castellane e Montferrat.
 
 **Outono**
 
 - Dead animals under the bridge in Castellane
 - Return of Sera (Redcap)
+- Chegada de León ex Mercere
+	- 
 
 **Inverno**
 

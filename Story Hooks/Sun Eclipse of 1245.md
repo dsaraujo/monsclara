@@ -104,3 +104,17 @@ Abaixo estão ideias temáticas e ganchos integrados aos personagens e aos arcos
     
 
 Você gostaria que elaboremos uma **mecânica astrológica específica para o Spatha** durante esses 7 minutos de eclipse parcial, ou prefere focar na **cena narrativa de Penélope em Durenmar** conectando o sonho à carta da Dama?
+
+### 1. The Duality of Gorgon Blood: Renewal vs. Virulence
+
+Seleno ex Merinita’s missive from Epidauros explicitly revealed the mystery of the elder Gorgons: _their blood holds the great mystery of duality—virulent destruction on the left, and pure restorative potency on the right_[cite: 3, 4].
+
+- **The Celestial Phenomenon**: An eclipse is a conjunction where the Moon (often associated with cool, reflective, restorative moisture or night) passes across the Sun (heat, authority, solar life). As the crescent shadow falls over Mons Clara, Stheno’s physical physiology resonates with the heavens[cite: 3, 4, 15].
+    
+- **The Shedding / Bleeding**:
+    
+    - The left side of her serpentine coils begins to weep black, smoking ichor (virulent Perdo/Terram/Corpus)[cite: 3, 4]. Where it touches the cavern floor, stone dissolves into caustic dust, and any flora in the waterfall's spray rots instantly.
+        
+    - The right side weeps iridescent, liquid silver (potent Creo/Corpus/Vim)[cite: 3, 4]. Splashes of this right-hand blood hitting the mountain rocks cause ancient, petrified roots to bloom with luminescent Mediterranean lilies or restore worn chisel marks on ancient Roman masonry[cite: 3, 4].
+        
+- **Story Hook**: This offers a tense laboratory and diplomatic challenge. Can Spatha or Drusilla collect both aspects of the blood without insulting her dignity as a former goddess[cite: 3, 4]? The right-hand blood could be a critical component for high-magnitude Creo Corpus healing (e.g., curing decrepitude or assisting Penelope’s future longevity attempts)[cite: 3, 4], while the left-hand blood offers raw destructive Penetration against supernatural fortifications.
