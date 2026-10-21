@@ -82,3 +82,4 @@
     - **Hook:** The historical death of Count Ramon Berenguer V. He leaves Provence not to his royal daughters, but to his youngest, Beatrice. This triggers a crisis.
     - **Development:** Before Charles d'Anjou's arrival in 1246, Provence is in a state of uncertainty. Ambitious local lords may try to seize land. The king of France and the king of England may send agents to press their wives' claims. The magi of Mons Clara could find themselves caught in the middle of these power plays, forced to back a side or defend their own lands from opportunistic mundane armies. This sets the stage perfectly for the dramatic changes of the 1250s.
 
+

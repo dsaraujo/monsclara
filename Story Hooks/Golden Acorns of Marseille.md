@@ -99,3 +99,5 @@ Harvesting the silvery acorns at the foot of the Sainte-Baume cave sits directly
     
 
 Would you like full statistics and mechanics for the **Biome Faerie Guardians** or a prepared **Certamen breakdown** in case a Coenobium patrol contests the harvest?
+
+There is a ring of roots that ReMe to make people go away from it with +10 penetration.

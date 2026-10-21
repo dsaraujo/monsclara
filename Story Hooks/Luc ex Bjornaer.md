@@ -168,17 +168,9 @@ Quando satisfeito com a conduta de Luc, Shamharoush bate as asas alvas, apagando
 
 - **Cumprimento do Pré-requisito de Balbuco:** Luc cumpre formalmente a exigência do mistagogo ("a história ancestral contada por um Djinn")[cite: 3, 6].
     
-      
-    
 - **Tractatus / Insight de Mistério:**
     
-      
     - Shamharoush concede uma pena imaculada de sua asa direita (ou uma pedra de ardósia marcada com seu glifo de julgamento)[cite: 3, 5].
-        
-          
-        
     - Isso serve como um **Tractatus de House Bjornaer Lore (Quality 11)** ou como um **Script Bonus (+3)** para a Iniciação do Mistério da Quimera (_Inner Heartbeast_)[cite: 2, 6].
-        
-          
         
 - **Conexão com a Próxima Etapa:** O Djinn avisa que a história é apenas o mapa; para forjar o corpo quimérico, Luc ainda terá de enfrentar e assimilar a essência da segunda fera (o Leão da Barbária ou o Grifo que ele já começou a domesticar em Mons Clara)[cite: 3, 6] diante dos olhos de seus ancestrais no próximo _Ritual dos 12 Anos_[cite: 3, 6].
