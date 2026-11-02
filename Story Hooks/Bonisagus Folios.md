@@ -151,3 +151,98 @@ Rebus discusses the ancient Cult of Mercury and its influence on Hermetic magic,
 - **Magical Focus:** 3 Lab Texts ($5 + 6 + 4 = 15\text{ magnitudes}$)
 - **Theoretical Works:** 3 Tractatus ($8 + 10 + 9 = 27\text{ quality}$ points)
 - **Total Points:** $15 + 23 = 38$ (Exact match for the editorial board's capacity).
+
+---
+
+Folio de 1246
+
+
+# The Folio of 1228: _De Finibus et Figuris_ (On Boundaries and Forms)
+
+_Compiled at Durenmar in Autumn 1228 by the Colentes Arcanorum following the Grand Tribunal. Bound in calfskin over stiffened beech boards, secured by brass clasps stamped with the owl of Minerva and the Rod of Hermes._
+
+- **Total Allocation:** 42 points (matching the combined Magic Theory of the five compiling _Colentes_).
+    
+
+### I. Scholarly Tractatus
+
+1. **Mentem / Imaginem Tractatus: _De Umbris Animi et Velo Somniorum_ (On the Shadows of the Mind and the Veil of Dreams)**
+    
+    - **Author:** Paulinus ex Bonisagus (Covenant of Durenmar, Rhine Tribunal).
+        
+    - **Quality:** 11.
+        
+    - **Description:** An investigation into how unconscious slumber blurs the distinction between species and phantasm. Paulinus discusses how strong emotional impressions (such as primordial terror or suppressed oaths) crystallize into semi-tangible forms within dream-regiones, offering rigorous theoretical advice on maintaining Hermetic focus without suffering mental warping.
+        
+    - _Relevance to Mons Clara:_ Directly enriches Penelope’s dream-magic research and aids Ravena in understanding the lingering mental echoes and shadow-scales born of her dreams.
+        
+2. **Magic Theory Tractatus: _Harmonia Metallorum et Sphærarum_ (The Harmony of Metals and the Spheres)**
+    
+    - **Author:** Justinia of House Bonisagus (Student of the Levant, based at Harco).
+        
+    - **Quality:** 10.
+        
+    - **Description:** Examines how terrestrial metals, when extracted from sites of celestial impact or primordial containment, resist standard Hermetic Terram guidelines unless their planetary sympathies are properly aligned in the laboratory. Explores how shape and material bonuses interact with anomalous auras.
+        
+    - _Relevance to Mons Clara:_ A valuable piece of insight for Spatha's work on celestial alloys, the mysterious Tartarean gate metal, and the astrological harmonizing of his forge.
+        
+
+### II. Laboratory Texts (Spells & Enchantments)
+
+3. **Lab Text: _The Gorgon’s Slumbering Gaze_ (In(Re)Te 25)**
+    
+    - **Author:** Kassandra ex Bonisagus (Theban Tribunal).
+        
+    - **Form / Technique:** Intellego / Rego Terram (Magnitude 5).
+        
+    - **Parameters:** R: Touch, D: Momentary, T: Structure / Part.
+        
+    - **Effect:** Inspects worked or raw stone to detect whether the mineral was formed naturally or was once living flesh transformed by a petrifying gaze or curse. The Rego requisite gently realigns the mineral grain along the threshold of the original body's meridian lines, granting a +3 bonus to any subsequent _Perdo Vim_ or _Muto Terram(Corpus)_ attempt to restore the petrified subject without crumbling or shattering delicate extremities.
+        
+    - **Experimental Quirk / Side Effect:** Whenever cast, a faint, cool scent of myrrh and crushed cypress leaves emanates from the targeted stone.
+        
+4. **Lab Text: _Scent of the Tamed Predator_ (ReAn 20)**
+    
+    - **Author:** Berengarius of House Bonisagus (Normandy Tribunal).
+        
+    - **Form / Technique:** Rego Animal (Magnitude 4).
+        
+    - **Parameters:** R: Eye, D: Sun, T: Individual.
+        
+    - **Effect:** Subdues the predatory frenzy and hunger of an aggressive magical or mundane beast with Size up to +3 (such as a drake, young gryphon, or great feline). While under this mantle, the beast regards the caster not as prey or rival, but as an imposing territorial alpha, making handling, feeding, and mundane training rolls two Ease Factor steps easier (–6 EF).
+        
+    - **Experimental Quirk / Side Effect:** The caster’s eyes take on a faint, luminous golden sheen visible only in deep twilight or pitch darkness.
+        
+5. **Lab Text: _The Ward of the Unseen Threshold_ (ReVi 20)**
+    
+    - **Author:** Theodoricus ex Bonisagus (Stonehenge Tribunal).
+        
+    - **Form / Technique:** Rego Vim (Magnitude 4).
+        
+    - **Parameters:** R: Touch, D: Ring, T: Circle.
+        
+    - **Effect:** Inscribes a ward around an entryway or portal that suppresses sympathetic bleeding and astral scrying between regio layers or planar thresholds of Level 20 or lower. Entities peering through reflective surfaces (such as scrying pools, dark glass, or enchanted mirrors) into the circle see only empty, still darkness.
+        
+    - **Experimental Quirk / Side Effect:** Cold iron within the ring develops a fine layer of silvery rime regardless of the ambient chamber temperature.
+        
+
+### III. Spell Mastery Tractatus
+
+6. **Spell Mastery Tractatus: _Mastery of Leap of Homecoming_ (ReCo 35)**
+    
+    - **Title:** _The Unbroken Thread_
+        
+    - **Author:** Archmaga Viviana ex Bonisagus.
+        
+    - **Quality:** 8 (teaches **Fast Casting** or **Penetration**).
+        
+    - **Description:** Viviana’s concise manual on stabilizing personal momentum and anchoring sympathetic ties when traversing long distances through Hermetic space.
+        
+    - _Relevance to Mons Clara:_ Both Spatha and Ravena have studied or are mastering _Leap of Homecoming_ to secure rapid transit across Provence.
+        
+
+### Story Hooks on Arrival
+
+- **The Redcap's Warning:** Delivered by young **Leon ex Mercere** (or visiting Redcap **Eloi**). He notes that this copy spent three extra seasons quarantined at Magvillus because of an intense formal inquiry by House Guernicus into Paulinus's notes on "unauthorized dream-scrying" and dream-regio trespassing.
+    
+- **The Scribe’s Choice:** Father Vitolino and the covenant’s scriptorium must decide which pieces to transcribe first during their allotted custody period, balancing Spatha’s hunger for the metallurgical insights against Penelope and Luc’s immediate needs with their respective mystical pursuits.

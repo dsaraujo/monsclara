@@ -35,3 +35,6 @@ The Volshebnii Mechtateli did not start as a cult - not until several of those w
 The cult cult has no real hierarchy or structure. It has only two degrees: the Lords and Ladies of the Passions, who know Dream Magic, and the Monarchs of the Veiled Court, who practice the Greater Dream Grimoire and are the only ones allowed in the innermost chambers of the Vermilion Temple, the Sanctuary of Lost Dreams. Initiation is offered in dream to those who are extremely good at Mentem and Imaginem magic, and typically only to young magi, before the weight of years crushes their dreams. Initiates never know the true names or faces of any but the one who initiated them. While it's not part of any formal degree, an Initiate may well be able to persuade that elder to teach them Potent Magic or Magical Focus on dreams, as well as affinity or aptitude for Mentem or Imaginem. Many are initiated in the final years of apprenticeship - and those who react with (perhaps appropriate) horror tend to be brutally killed before they can become true magi and get the rights granted by the Order.  
   
 ![](https://writeups.letsyouandhimfight.com/images/c408aa9d28c10c9609e84b600cc0fef152414ad6ccfc3e1f373219ef35e8505f.png)
+
+---
+

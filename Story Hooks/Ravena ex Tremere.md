@@ -178,7 +178,7 @@ Eu o sinto sob o barro de Mimizan. Um grande corpo de escamas e sabedoria antiga
 
 Eles dizem que estou caindo no Twilight. Dizem que sou apenas uma imagem refletida na água escura. Não os escute. Há caminhos que passam por fora dos portões e das grandes torres. Se você procurar nos seus sonhos pelo cheiro dos lírios molhados e pelo sussurro da serpente que não tem pés, você encontrará a fresta na gaiola.
 
-O tempo do meu ritual se esgota. A carne mortala exige tributos que os velhos ritos já não conseguem pagar sem sangue novo. Se você deseja desatar as amarras que colocaram em seus pulsos, olhe para o sul quando as estrelas do dragão se alinharem. Não traga a sua ordem. Traga apenas a sua vontade de não ser quebrada.
+O tempo do meu ritual se esgota. A carne mortal exige tributos que os velhos ritos já não conseguem pagar sem sangue novo. Se você deseja desatar as amarras que colocaram em seus pulsos, olhe para o sul quando as estrelas do dragão se alinharem. Não traga a sua ordem. Traga apenas a sua vontade de não ser quebrada.
 
 _Quem mantém a gaiola aberta também sabe como fechá-la._
 
