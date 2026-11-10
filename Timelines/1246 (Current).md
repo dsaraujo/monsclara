@@ -59,11 +59,48 @@
 	- Perto de Nice.
 - Return of León (Redcap)
 	- Return of Letters from [[1245]]
+		- Retorno para Seleno ex Merinita em Epidauros
+			- Interessados em assuntos: Julius, Gorgona (falam que é Stheno), mandam lasca do portão do Tártaro (presente), falam da relação com as fadas da Provance. 
+				- Quer visitar os régios de Fadas. Pode visitar de 48 a 50. Enviou um tratado: 
+					- **The Compendium of Chthonic Anatomy (_De Natura Gorgonis_):** A tractatus on _Magic Lore_ (Quality 11) detailing the harvest of shedding scales, venom extraction.
+					- Sugestão de vir no outono de 1250.
+		- Retorno para Ahmed
+			- Negociando. Querem ver exatamente o que ele tem. Convidam ele para visitar Mons Clara.  Perguntam detalhes de votação. Oferecem 1 vis.
+				- Acha graça na contra-proposta. Sugere um local neutro para uma reunião (Marseille ou Nice) no Começo do Outono.
+		- Retorno para Theron ex Verditius
+			- Retorna dizendo que está pronto, dá a data.
+			- Evitar o inverno mas pode ir quando quiser.
+		- Retorno para Snorri ex Verditius
+			- Está buscando o Greater Enchantment, para ir para Durenmar.
+			- Pode ir quando quiser, só avisar e levar as coisas.
+				- Outono de 1248.
+		- Carta para Runhilde ex Tremere pedindo pra fazer uma visita e um duelo.
+			- Runhilde adoraria visitar na Primavera de 1249.
 	- Carta dos Jerbiton do Cénobio contando sobre Beatrice de Provance.
+		- Reunião na casa Mercere no Verão de 1247.
 	- Carta de Castra Solis informando da presença do bando de Tres nos caminhos pelos Alpes. Eles interceptaram um comboio Mercere e estão sendo caçados pelos Hoplitas. Mons Clara é o covenant mais próximo.
+	-  Pedido de magias (1 vis per 75 levels)
+		- Incantation of Lightning 35+ (CrAu)
+		- Eyes of the Bat 25 (InAu)
+		- Sailor’s Foretaste of the Morrow 15 (InAu)
+	- Tratados de Auram (2 vis) 
+		- De Spiritu et Motu Ventorum Q10
+		- De Natura Fulminis Q11
+	- Mathilde:
+		- Pedido de materiais (Mathilde)
+			- Gold (10p)
+			- Amber (1p)
+			- Magnet (1p)
+			- Mercury (1p)
+			- True Purple (1p)
+			- Preço: 15 pounds of silver
+- Anil quer se aposentar
+- Selina é a nova espiã em Briançonnet agora que Aldéric se aposenta.
+- Felipe se Aposenta e Françoi é o novo Miller
 
 **Inverno**
 
+- Luc irá para Crintera
 - Stalactites inside the mountain.
 - The Ice Crown of the statue of Hermes in Saint Andres.
 - Aging Roll & _Aegis of the Heart_.

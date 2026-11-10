@@ -30,6 +30,8 @@ Arts: Cr 22, In 14, Mu 14, Pe 16, Re 20, An 13, Aq 15, Au 13, Co 22, He 15, Ig 1
 
 Magic Resistance: 35 + form (+5 for Mentem)
 
+Add a +2 to account for the last 10 years of progress.
+
 Twilight Scars: As the result of three comprehended Twilight experiences prior to her long disappearance, she gained Feminine Gift, Venus’s Blessing, and Dark Magic. Her Twilight
 experience of 19 years destroyed most of her personal memories, leaving her with a raw patchwork of events prior to 1001 and almost no distinct details. Two later Twilight
 experiences, one for six years and one for nine years, left her resembling the popular depiction of the Virgin Mary, glowing with a faint, unnatural aura and with auburn hair and ruddy skin.
@@ -105,6 +107,7 @@ Personality Traits: Deceptive +6, Proud +6, Clever +3, Persuasive +3, False God 
 Reputation: Duke of Hell 7 (Infernal) Hierarchy: 7 
 Combat:
 Fist: Init +4, Attack +9, Defense +9, Damage +4
+
 Or as appropriate for physical form.
 Soak: +5
 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious 
