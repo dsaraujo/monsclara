@@ -1,11 +1,18 @@
 **Primavera**
 
+- Spatha indo para Verdi para aprender Reforge Magical Items com Theron ex Verditius
+	- Vai junto com León
 - Silver Hair from babies
 - Water Sounds collection 
 - [[Golden Acorns of Marseille]]
-- Requests to Sera (Redcap)
-- Spatha indo para Verdi para aprender Reforge Magical Items com Theron ex Verditius
-	- Vai junto com León
+- Requests to León
+	- Escolta pra Durenmar
+	- Carta pra Crintera de Luc
+	- Carta pra Jeanne ex Merinita
+		- Spell timing (Mistério Merinita), Minor
+		- Merinita Lore 1 
+	- Pedreiro de Obras para fazer uma sacada na torre
+		- Permanente em Mons Clara
 
 **Verão**
 
